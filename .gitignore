@@ -1,0 +1,11 @@
+# Exclude build artifacts
+target/
+
+# Exclude Eclipse/STS4-specific files
+.settings/
+.project
+.classpath
+
+# Exclude IntelliJ IDEA-specific files
+.idea/
+*.iml
